@@ -1,0 +1,26 @@
+<?php
+return [
+  'tumu' => 'Tümü',
+  'ilan_no' => 'İlan no',
+  'fiyat' => 'Fiyat',
+  'ilan-tipi' => 'İlan tipi',
+  'satilik' => 'Satılık',
+  'kiralik' => 'Kiralık',
+  'ozellikler' => 'Özellikler',
+  'siralama' => 'Sıralama',
+  'artan' => 'Artan',
+  'azalan' => 'Azalan',
+  'fiyata_gore' => 'Fiyata göre',
+  'ilan_tarihine_gore' => 'İlan tarihine göre',
+  'filtreler_ve_siralama' => 'Filtreler ve sıralama',
+  'fiyat_araligi' => 'Fiyat aralığı',
+  'sifirla' => 'Temizle',
+  'filtreler' => 'Filtreler',
+  'aciklama' => 'Açıklama',
+  'sokak_gorunumu' => 'Sokak görünümü',
+  'hakkimizda' => 'Hakkımızda',
+  'iletisim' => 'İletişim',
+  'cerez_politikasi' => 'Çerez politikası',
+  'kapat' => 'Kapat',
+
+];
